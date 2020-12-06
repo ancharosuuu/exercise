@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: grey;
+}
+
+.main-visual {
+  background-image: url(img/mv.jpg);
+  background-size: cover;
+  height: 400px;
+  background-position: bottom;
+  margin-bottom: 50px;
+}
+
+.main-text {
+  padding: 20px 0 0 20px;
+  color: grey;
+}
+
+main {
+  display: inline-block;
+  width: 840px;
+  margin: 50px;
+}
+
+.box {
+  padding: 30px 0;
+  border-bottom: 1px solid grey;
+
+}
